@@ -6,12 +6,10 @@
 
 # Hola me llamo Gonzalo! 👋🏻
 
-Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet
-
-​
+Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet. Naci en San Luis, Argentina
 
 
-Naci en San Luis, Argentina
+
 
 ## Educacion 👨🏻•🎓
 
