@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img src="https://ibb.co/hD30wZP" alt="no hay imagen"/>
+ <img src="https://i.ibb.co/m6fpgXL/Gonzalo-Barroso.png" alt="no hay imagen"/>
 
 <!--
 **Gon159x/Gon159x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
