@@ -39,4 +39,4 @@ Naci en San Luis, Argentina
 
 ## Look at me! 👀
 
-<a href="https://www.fcoterroba.com" target="_blank"><img src="https://img.shields.io/badge/WWW.FC
+<a href="https://www.fcoterroba.com" target="_blank">
