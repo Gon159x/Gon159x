@@ -1,4 +1,4 @@
-![Gonzalo Barroso](https://user-images.githubusercontent.com/49082107/197912609-4879a929-a77e-401f-abad-dbf27dca958f.png)
+![Gonzalo Barroso_ml_resize_x2](https://user-images.githubusercontent.com/49082107/197912809-cae8a865-5084-48f8-8693-0e9a5ebc55d3.jpg)
 
 # Hola me llamo Gonzalo! 👋🏻
 
