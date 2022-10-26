@@ -39,7 +39,7 @@ Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet. Naci en
 
 ## Statistics 🧐
 
-[![Gon159x's GitHub stats](https://github-readme-stats.vercel.app/api?username=gon159x&theme=radical)](https://github.com/gon159x/github-readme-stats)
+[![Gon159x's GitHub stats](https://github-readme-stats.vercel.app/api?username=gon159x&theme=radical&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)](https://github.com/gon159x/github-readme-stats)
 
 ​
 
