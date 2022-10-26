@@ -6,7 +6,7 @@ Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet
 
 Naci en San Luis, Argentina
 
-## Official Education 👨🏻•🎓
+## Educacion 👨🏻•🎓
 
 2012-2019 | Ingenieria en informatica UNSL Argentina, San Luis
 
