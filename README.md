@@ -48,3 +48,5 @@ Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet. Naci en
 ## Look at me! 👀
 <a href= "https://www.linkedin.com/in/gonzalo-barroso-4ab95b164/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href = "https://portfolio-nine-xi-46.vercel.app/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+
+![Visitor Count](https://profile-counter.glitch.me/gon159x/count.svg)
