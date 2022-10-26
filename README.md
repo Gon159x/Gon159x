@@ -51,5 +51,5 @@ Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet. Naci en
 
 
 
-## Numero de visitantes! ✅
+## Numero de visitas ✅
 ![Visitor Count](https://profile-counter.glitch.me/gon159x/count.svg)
