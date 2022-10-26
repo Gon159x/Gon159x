@@ -17,7 +17,8 @@ Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet. Naci en
 
 ## Lenguajes y tecnologias 👨🏻•💻
 
-![Diseño sin título (4)](https://user-images.githubusercontent.com/49082107/197914770-b950a262-c718-4436-a2f9-13a412ae804d.png)
+![Diseño sin título (4) (1)](https://user-images.githubusercontent.com/49082107/197914934-d8429141-d4ad-4b5a-a688-2da29ffb485d.png)
+
 
 
 ## Statistics 🧐
