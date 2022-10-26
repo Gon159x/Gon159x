@@ -46,5 +46,5 @@ Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet. Naci en
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gon159x&theme=radical)](https://github.com/gon159x/github-readme-stats)
 
 ## Look at me! 👀
-
+<a href= "https://www.linkedin.com/in/gonzalo-barroso-4ab95b164/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 <a href="https://www.fcoterroba.com" target="_blank"><img src="https://img.shields.io/badge/WWW.FCOTERROBA.COM-WWW.FCOTERROBA.COM-white"></a>  <img src="https://img.shields.io/badge/fcoterroba%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>  <img src="https://img.shields.io/badge/fcoterroba%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/> <img src="https://img.shields.io/badge/fcoterroba%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>  <img src="https://img.shields.io/badge/fcoterroba%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>  <img src="https://img.shields.io/badge/fcoterroba%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/-fcoterroba-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
