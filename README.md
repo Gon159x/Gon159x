@@ -1,6 +1,6 @@
 ![Gonzalo Barroso](https://user-images.githubusercontent.com/49082107/197913291-9927a787-b78b-4bd7-b64a-34171ecd621f.gif)
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/49082107/197913632-05fb6bf4-c824-4a35-920b-9bb4b07e021b.gif)
+
 
 
 
