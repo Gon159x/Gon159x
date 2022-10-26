@@ -1,10 +1,6 @@
-![Gonzalo Barroso](https://user-images.githubusercontent.com/49082107/197913291-9927a787-b78b-4bd7-b64a-34171ecd621f.gif)
-
-
-
-
-
 # Hola me llamo Gonzalo! 👋🏻
+
+![Gonzalo Barroso](https://user-images.githubusercontent.com/49082107/197913291-9927a787-b78b-4bd7-b64a-34171ecd621f.gif)
 
 Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet. Naci en San Luis, Argentina
 
