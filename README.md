@@ -47,4 +47,4 @@ Hola! mi nombre completo es Carlos Gonzalo Barroso, Gon159x en internet. Naci en
 
 ## Look at me! 👀
 
-<a href="https://www.fcoterroba.com" target="_blank">
+<a href="https://www.fcoterroba.com" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
